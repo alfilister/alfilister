@@ -18,12 +18,25 @@ castillo.c.jm@gmail.com
 
 ## My Goals
 
-Enjoy my life while grow as a person, I want to help many children through sports, education and culture. that is the fuel that motivates me to code.
+Enjoy my life while grow as a person, I want to help many children through sports, tech, education and culture. that is the fuel that motivates me to code.
 Someday I will upload a photo of that personal project [ Reserved Space ]
 
 As a developer I want to solidify my skills and gain experience in the field to support big projects (also in the OpenSource ones), is hard to set a route but not a step, so by now I am learning 2 new thecnologies simultaneously and adding them to my stack.
 
 ## Proyects ⚡️ Here is the real fun ⚡️
+
+## 2doApp - The upgrade version of the task management
+
+I work on the task management as the improved version of the usual developers project, adding few features like emailing, formating in alert panels, manage a set of users, using a nonSql database, and deploy with google cloud, so proud of the result.
+
+You can experience the page in this url: 
+https://doappauth.firebaseapp.com/
+
+or see the code and deep description here: 
+https://github.com/alfilister/toDo-List
+
+![Screenshot from 2022-08-08 20-18-04](https://user-images.githubusercontent.com/89329462/183541780-69766db2-ec9a-4e51-a232-6fd226fb0b8e.png)
+
 
 ## Ecomercell - Tech products ecommerce
 
