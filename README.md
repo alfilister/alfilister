@@ -5,7 +5,7 @@
 I am passionate about technology and sports (Ultimate Frisbee and Cycling), I love learning and testing knowledge with projects. Right now I am finishing Henry's bootcamp; last year I decided to focus my career on software development and I love what I have learned and the proyection of that knowledge into comercial proyects.
 
 ## Things you might find interesting
-👩‍💻 I'm currently working on my portfolio, 3 aditional projects that I did in the bootcamp and deserve to be here. 
+👩‍💻 I'm currently working on my portfolio, and a warehouse managment tool for textile companies. 
 
 🧠 I'm currently learning Tailwind and Firebase.
 
