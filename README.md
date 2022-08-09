@@ -32,6 +32,9 @@ I work on the task management as the improved version of the usual developers pr
 You can experience the page in this url: 
 https://doappauth.firebaseapp.com/
 
+or take a few minuts to see the features explained by me:
+https://youtu.be/0O0nLU7IanU
+
 or see the code and deep description here: 
 https://github.com/alfilister/toDo-List
 
