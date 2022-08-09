@@ -7,7 +7,7 @@ I am passionate about technology and sports (Ultimate Frisbee and Cycling), I lo
 ## Things you might find interesting
 👩‍💻 I'm currently working on my portfolio, 3 aditional projects that I did in the bootcamp and deserve to be here. 
 
-🧠 I'm currently learning Tailwind and Typescript.
+🧠 I'm currently learning Tailwind and Firebase.
 
 💬 Ask me about Javascript, React, Redux, HTML5, CCS, Sass, NodeJs, PostgreSQL, Auth0, Sequelize
 
