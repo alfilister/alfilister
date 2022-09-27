@@ -35,18 +35,13 @@ or see the code and deep description here: https://github.com/alfilister/toDo-Li
 
 ![Screenshot from 2022-08-08 20-18-04](https://user-images.githubusercontent.com/89329462/183541780-69766db2-ec9a-4e51-a232-6fd226fb0b8e.png)
 
-
-## Ecomercell - Tech products ecommerce
-
-Together with a start up of 5 people, we developed an electronic products ecommerce, with common elements within the shopping experience: cart, integrated payment method (Stripe), registration method (Auth0), email sending to inform the user , administrator panel, user panel, order control, stock control, reviews, among other features that we consider necessary.
-
-![Screenshot from 2022-06-08 15-31-30](https://user-images.githubusercontent.com/89329462/172722132-491c2db3-fddd-4c42-a249-53ea889e2550.png)
-
-Do not miss a detail of this project and see more images and description here https://github.com/alfilister/ProyectoFinal
-
 ## Videogames App - Single Page Application
 
 It is an application that has a video game database that receives some (first 100 from more than 700 thousand videogames listed in Rawg) data both from an API and from its own database (created using PostgreSQL and managed through Sequelize).
+
+
+You can experience the page at this URL: https://videofront-c25fa.web.app/
+or see the code and deep description here: https://github.com/alfilister/PI-Video-Games
 
 The page has a Landing Page with an animation that gives time for the information to load by the API response, once inside you can sort by rating or name, in addition to filtering by category, origin (Database / API) .
 Likewise, you can search for a specific name or even go through a certain page to better organize the number of video games displayed. 
@@ -56,9 +51,14 @@ Video games can also be created, this through a controlled form that informs the
 
 ![Screenshot from 2022-06-08 15-46-40](https://user-images.githubusercontent.com/89329462/172722864-1af76def-f271-4668-b183-50ab43f65b30.png)
 
-Do not miss a detail of this project and see more images and description here https://github.com/alfilister/PI-Video-Games
 
+## Ecomercell - Tech products ecommerce
 
+Together with a start up of 5 people, we developed an electronic products ecommerce, with common elements within the shopping experience: cart, integrated payment method (Stripe), registration method (Auth0), email sending to inform the user , administrator panel, user panel, order control, stock control, reviews, among other features that we consider necessary.
+
+![Screenshot from 2022-06-08 15-31-30](https://user-images.githubusercontent.com/89329462/172722132-491c2db3-fddd-4c42-a249-53ea889e2550.png)
+
+Do not miss a detail of this project and see more images and description here https://github.com/alfilister/ProyectoFinal
 
 
 ## 🔗 Links
